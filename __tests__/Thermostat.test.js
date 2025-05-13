@@ -20,9 +20,14 @@ describe('Thermostat turnHeaterOn - Coverage Tests', () => {
 
   // C1 = True, C2 = True, P = True
   test('T1: C1=true, C2=true → Heater ON (PC, CC, CACC)', () => {
-    thermostat.setCurrentTemp(60);        // curTemp
-    thermostat.thresholdDiff = 5;         // C1：(targetTemp - curTemp) > thresholdDiff == True
-    thermostat.timeSinceLastRun = 5;      // C2：timeSinceLastRun >= minLag == True
+    // curTemp
+    thermostat.setCurrentTemp(60); 
+
+    // C1：(targetTemp - curTemp) > thresholdDiff == True
+    thermostat.thresholdDiff = 5;     
+    
+    // C2：timeSinceLastRun >= minLag == True    
+    thermostat.timeSinceLastRun = 5;      
     thermostat.minLag = 3;
 
     const result = thermostat.turnHeaterOn(settings);

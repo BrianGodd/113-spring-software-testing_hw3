@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1747135578775" clover="3.2.0">
-  <project timestamp="1747135578775" name="All files">
+<coverage generated="1747142557370" clover="3.2.0">
+  <project timestamp="1747142557370" name="All files">
     <metrics statements="33" coveredstatements="33" conditionals="10" coveredconditionals="10" methods="9" coveredmethods="9" elements="52" coveredelements="52" complexity="0" loc="33" ncloc="33" packages="1" files="2" classes="2"/>
     <file name="ProgrammedSettings.js" path="C:\Users\User\OneDrive\桌面\大三下作業\SoftwareTesting\HW3\ProgrammedSettings.js">
       <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
