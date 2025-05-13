@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1747135578775" clover="3.2.0">
+  <project timestamp="1747135578775" name="All files">
+    <metrics statements="33" coveredstatements="33" conditionals="10" coveredconditionals="10" methods="9" coveredmethods="9" elements="52" coveredelements="52" complexity="0" loc="33" ncloc="33" packages="1" files="2" classes="2"/>
+    <file name="ProgrammedSettings.js" path="C:\Users\User\OneDrive\桌面\大三下作業\SoftwareTesting\HW3\ProgrammedSettings.js">
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="18" count="9" type="stmt"/>
+      <line num="20" count="9" type="stmt"/>
+      <line num="21" count="36" type="stmt"/>
+      <line num="22" count="36" type="stmt"/>
+      <line num="23" count="72" type="stmt"/>
+      <line num="29" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="30" count="6" type="stmt"/>
+      <line num="35" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="39" count="1" type="stmt"/>
+      <line num="43" count="1" type="stmt"/>
+    </file>
+    <file name="Thermostat.js" path="C:\Users\User\OneDrive\桌面\大三下作業\SoftwareTesting\HW3\Thermostat.js">
+      <metrics statements="21" coveredstatements="21" conditionals="6" coveredconditionals="6" methods="5" coveredmethods="5"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="9" count="5" type="stmt"/>
+      <line num="10" count="5" type="stmt"/>
+      <line num="11" count="5" type="stmt"/>
+      <line num="12" count="5" type="stmt"/>
+      <line num="13" count="5" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="20" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="23" count="3" type="stmt"/>
+      <line num="26" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="29" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="4" type="stmt"/>
+      <line num="38" count="4" type="stmt"/>
+      <line num="42" count="2" type="stmt"/>
+      <line num="43" count="2" type="stmt"/>
+      <line num="47" count="1" type="stmt"/>
+      <line num="51" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
